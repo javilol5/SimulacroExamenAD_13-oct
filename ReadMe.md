@@ -67,7 +67,9 @@ Insertar na táboa **Videoxogo** os seguintes videoxogos *(recorda que os valore
   *Descrición:* Plataformas 3D con mecánicas de posesión de obxectos.
 
 ![img1.png](images/img1.png)
+
 ![img3.png](images/img3.png)
+
 ![img2.png](images/img2.png)
 
 ---
@@ -76,7 +78,9 @@ Insertar na táboa **Videoxogo** os seguintes videoxogos *(recorda que os valore
 Consulta os IDs que teñen os videoxogos e lístaos.
 
 ![img9.png](images/img9.png)
+
 ![img8.png](images/img8.png)
+
 ![img6.png](images/img6.png)
 
 ---
@@ -93,7 +97,9 @@ Inserta na táboa **InventarioTenda** as seguintes entradas:
 | *(Id de Super Mario Odyssey)* | 35.00 | 49.99 | 6 |
 
 ![img11.png](images/img11.png)
+
 ![img12.png](images/img12.png)
+
 ![img13.png](images/img13.png)
 
 ---
@@ -102,8 +108,11 @@ Inserta na táboa **InventarioTenda** as seguintes entradas:
 Exporta as entradas da táboa **Videoxogo** a XML.
 
 ![img15.png](images/img15.png)
+
 ![img14.png](images/img14.png)
+
 ![img16.png](images/img16.png)
+
 ![img17.png](images/img17.png)
 
 ---
@@ -112,8 +121,11 @@ Exporta as entradas da táboa **Videoxogo** a XML.
 Exporta as entradas da táboa **Videoxogo** nun ficheiro.
 
 ![img19.png](images/img19.png)
+
 ![img18.png](images/img18.png)
+
 ![img20.png](images/img20.png)
+
 ![img21.png](images/img21.png)
 
 ---
@@ -122,6 +134,7 @@ Exporta as entradas da táboa **Videoxogo** nun ficheiro.
 Mostra unha mensaxe que poña **“OFERTAS VIDEOXOGOS”**.
 
 ![img22.png](images/img22.png)
+
 ![img23.png](images/img23.png)
 
 ---
@@ -130,7 +143,9 @@ Mostra unha mensaxe que poña **“OFERTAS VIDEOXOGOS”**.
 Modifica a porcentaxe de oferta dos videoxogos en **InventarioTenda** para sumarlle 15.
 
 ![img25.png](images/img25.png)
+
 ![img24.png](images/img24.png)
+
 ![img26.png](images/img26.png)
 
 ---
@@ -139,7 +154,9 @@ Modifica a porcentaxe de oferta dos videoxogos en **InventarioTenda** para sumar
 Lista o prezo actual de venda de *The Legend of Zelda: Ocarina of Time* (aplicando `PorcentaxeOferta` sobre `PrezoVenta`).
 
 ![img29.png](images/img29.png)
+
 ![img28.png](images/img28.png)
+
 ![img27.png](images/img27.png)
 
 ---
@@ -148,7 +165,9 @@ Lista o prezo actual de venda de *The Legend of Zelda: Ocarina of Time* (aplican
 Lee as entradas de videoxogo do ficheiro serializado.
 
 ![img30.png](images/img30.png)
+
 ![img31.png](images/img31.png)
+
 ![img32.png](images/img32.png)
 
 ---
@@ -157,6 +176,9 @@ Lee as entradas de videoxogo do ficheiro serializado.
 Escribe nun ficheiro de texto o lido do ficheiro serializado.
 
 ![img34.png](images/img34.png)
+
 ![img33.png](images/img33.png)
+
 ![img36.png](images/img36.png)
+
 ![img35.png](images/img35.png)
