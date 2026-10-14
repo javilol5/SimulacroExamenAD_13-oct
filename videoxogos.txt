@@ -1,0 +1,5 @@
+Id: 1 | Titulo: The Legend of Zelda: Ocarina of Time | Plataforma: Nintendo 64 | AnoLanzamento: 1998 | Descripcion: Clásico xogo de aventura e acción 3D en Hyrule
+Id: 2 | Titulo: Elden Ring | Plataforma: Multiplataforma | AnoLanzamento: 2022 | Descripcion: RPG de acción desafiante nun mundo de fantasía escura
+Id: 3 | Titulo: The Witcher 3: Wild Hunt | Plataforma: Multiplataforma | AnoLanzamento: 2015 | Descripcion: RPG de fantasía seguindo as aventuras do bruxo Geralt
+Id: 4 | Titulo: Bloodborne | Plataforma: PlayStation 4 | AnoLanzamento: 2015 | Descripcion: RPG de acción e terror gótico ambientado na cidade de Yharnam
+Id: 5 | Titulo: Super Mario Odyssey | Plataforma: Nintendo Switch | AnoLanzamento: 2017 | Descripcion: Plataformas 3D con mecánicas de posesión de obxectos

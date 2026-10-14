@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videoxogos>
+    <videoxogo>
+        <id>1</id>
+        <titulo>The Legend of Zelda: Ocarina of Time</titulo>
+        <plataforma>Nintendo 64</plataforma>
+        <anolanzamento>1998</anolanzamento>
+        <descripcion>Clásico xogo de aventura e acción 3D en Hyrule</descripcion>
+    </videoxogo>
+    <videoxogo>
+        <id>2</id>
+        <titulo>Elden Ring</titulo>
+        <plataforma>Multiplataforma</plataforma>
+        <anolanzamento>2022</anolanzamento>
+        <descripcion>RPG de acción desafiante nun mundo de fantasía escura</descripcion>
+    </videoxogo>
+    <videoxogo>
+        <id>3</id>
+        <titulo>The Witcher 3: Wild Hunt</titulo>
+        <plataforma>Multiplataforma</plataforma>
+        <anolanzamento>2015</anolanzamento>
+        <descripcion>RPG de fantasía seguindo as aventuras do bruxo Geralt</descripcion>
+    </videoxogo>
+    <videoxogo>
+        <id>4</id>
+        <titulo>Bloodborne</titulo>
+        <plataforma>PlayStation 4</plataforma>
+        <anolanzamento>2015</anolanzamento>
+        <descripcion>RPG de acción e terror gótico ambientado na cidade de Yharnam</descripcion>
+    </videoxogo>
+    <videoxogo>
+        <id>5</id>
+        <titulo>Super Mario Odyssey</titulo>
+        <plataforma>Nintendo Switch</plataforma>
+        <anolanzamento>2017</anolanzamento>
+        <descripcion>Plataformas 3D con mecánicas de posesión de obxectos</descripcion>
+    </videoxogo>
+</videoxogos>
