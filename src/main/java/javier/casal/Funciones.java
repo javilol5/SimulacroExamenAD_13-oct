@@ -203,6 +203,29 @@ public class Funciones {
         }
     }
 
+    // DELETE Inventario
+    public void eliminarInventario(int id) {
+
+        String sql = "DELETE FROM InventarioTenda WHERE id = ?";
+
+        try {
+            Connection conn = DBconnector.conexion();
+            PreparedStatement ps = conn.prepareStatement(sql);
+
+            ps.setInt(1, id);
+
+            int filas = ps.executeUpdate();
+
+            System.out.println("Inventario eliminado: " + filas);
+
+            ps.close();
+            conn.close();
+
+        } catch (SQLException e) {
+            System.out.println("Erro ao eliminar: " + e.getMessage());
+        }
+    }
+
 
     // TXT serializado
     public void txtSerializado() {
